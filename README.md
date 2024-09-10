@@ -4,10 +4,10 @@
 
 Projeto acadêmico do Centro Universitário SENAC realizado com o intuito de colocar em prática e desenvolver o MVP (Produto Mínimo Viável) da solução de um Boletim Escolar para uma organização escolar, elaborado na primeira entrega do projeto.
 
-##📱 Demonstração
+## 📱 Demonstração
 
 <div align="center">
-<img width="80%" src="image/demo.gif">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEZ6BgZbUSY?si=pj8LOcVpeKvKHNsd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## 🎖️ Tecnologias
