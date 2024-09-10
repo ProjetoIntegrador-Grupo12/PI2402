@@ -1,51 +1,34 @@
 <img src="image\banner_boletim.png" alt="" width="100%">
 
-## 🚀 Apresentação
-<br>
-📍 Projeto acadêmico realizado com o intuito de colocar em prática os primeiros aprendizados em Javascript.
-<br>
-<br>
+## 🔖 Projeto Integrador V
 
-## 📹 Demonstração
-<br>
+Projeto acadêmico do Centro Universitário SENAC realizado com o intuito de colocar em prática e desenvolver o MVP (Produto Mínimo Viável) da solução de um Boletim Escolar para uma organização escolar, elaborado na primeira entrega do projeto.
+
+##📱 Demonstração
 
 <div align="center">
 <img width="80%" src="image/demo.gif">
 </div>
-<br>
 
-## 🛠️ Stacks e conhecimentos utilizados
-<br>
+## 🎖️ Tecnologias
 
-<b>📌 HTML</b>
-<br>
+- <b>HTML</b>
 
-- Uso de tags semânticas, como HEADER, SECTIO e FOOTER;
-- Framework Bootstrap
+Foi utilizado para a construção estrutural e de marcação dos campos relevantes da aplicação, como as tabelas necessárias para a visualização das notas e cálculos, botões (com a parte funcional sendo tratada dentro do Javascript), metadados e outros. As classes de containers foram elaboradas com o funcionamento do framework Bootstrap, que está sendo chamado dentro do arquivo.
 
-<b>📌 CSS</b>
-<br>
+- <b>CSS</b>
 
-- CSS Grid e Flexbox para posicionamento de itens e criação do layout.
-- Bootstrap e estilização da página.
+Foi utilizado para construir o estilo das páginas em conjunto com o framework Bootstrap, como as imagens de fundo, especificações de fonte, classes semânticas como headers, sections e outros. O posicionamento dos itens e o layout geral foi construído com CSS Grid e Flexbox.
 
-<b>📌 Javascript</b>
-<br>
-- Criação de função para realizar o cálculo das notas;
-- Função de atulizar a lista de cadastro;
-- Função de adicionar alunos;
-- Uso de função anônima;
-<br>
+- <b>Javascript</b>
 
-## ✔ Á Melhorar
-<br>
+Foi utilizado para a parte funcional da aplicação, cuidando do gerenciamento de dados, inserção de novas informações e os cálculos executados. Também realiza a manipulação do DOM para refletir as alterações em tempo real na aplicação.
 
-- Reduzir a quantidade de variáveis no js.
-- Inserir a caixar de 'Search' na lista.
-- Botão de excluir.
-- Melhorar o uso do bootstrap.
+## 📌 Integrantes
 
-
-
-
-
+- Bruna Maciel Meroni (brunammeroni)
+- Calyto Nichel Santos do Nascimento (calyto)
+- Flavio George da Silva Romeiro (flaviogsromeiro)
+- Joao Vitor Monteiro de Oliveira (joao-vmoliveira26)
+- Matheus Jardim Coda (mathcoda)
+- Sofia Ramlow Lehmkuhl (softrl)
